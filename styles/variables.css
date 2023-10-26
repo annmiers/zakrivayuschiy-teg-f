@@ -11,7 +11,7 @@
     repeating-linear-gradient(90deg, #d3d3d3, #d3d3d3 2px, transparent 2px, transparent 4px),
     linear-gradient(#e7e7e7 0%, #e7e7e7 0.01%, #1a1a1a 100%);
     --content-section-width: clamp(371px, 50vw, 696px);
-    --button-text-color: #FFF;
+    --button-text-color: var(--background-color);
     --heart-color: #FF0000;
     --dialog-width: clamp(21.3125rem, 20.9604rem + 1.5023vw, 22.3125rem);
 }
