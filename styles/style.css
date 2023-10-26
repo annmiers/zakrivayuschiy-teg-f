@@ -182,7 +182,7 @@
   background-color: darkmagenta;
 }
 
-.card__image{
+.card__image {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -267,7 +267,6 @@
   line-height: 0.9;
   font-size: 14px;
   font-weight: var(--font-weight-normal);
-  line-height: 0.9;
   position: relative;
   isolation: isolate;
   cursor: pointer;
